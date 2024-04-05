@@ -1,0 +1,17 @@
+**/*.png
+**/*.jpg
+**/*.mp4
+**/*.txt
+**/*.txt~
+**/*.blend1
+**/BL_proxy/
+**/back/
+**/left/
+**/right/
+**/BL_proxy
+calibration/front_results/
+testing/
+unused/
+__pycache__/
+
+!**/comparison.mp4
