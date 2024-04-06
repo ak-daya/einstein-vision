@@ -60,7 +60,7 @@ def main():
         'bicycle' : 1.05,
         'person' : 1.75,
         'traffic light' : 0.762,
-        'stop sign' : 2.13 
+        'stop sign' : 2.13
     }
 
     # tuning parameters
@@ -69,7 +69,7 @@ def main():
     midas_depth_scale = 50.
 
     # Loop over 13 scenes
-    for i in tqdm(range(1, 14)):
+    for i in tqdm(range(1, 13)):
         # path of bounding box and depth data
         scene_name = f"scene{i}"
         base_path = Path.cwd() / "scenes" / scene_name
@@ -128,6 +128,9 @@ def main():
                 # big h -> 1 : bounding box
                 # small h -> 0 : midas
                 closeness_bias = sigmoid(h, x_scale=0.05, x_shift=130)
+                if label == "stop sign":
+                    closeness_bias = 1
+
                 midas_depth = depth_img[int(v)][int(u)]
                 bb_depth_ratio = heights[label]/h
                 depth = (1-closeness_bias) *  bb_depth_scale * bb_depth_ratio + closeness_bias * midas_depth_scale * midas_depth
