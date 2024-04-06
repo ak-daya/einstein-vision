@@ -3,6 +3,9 @@ from dataloaders import *
 import json
 from pathlib import Path
 from tqdm import tqdm
+from Brakelights.TailDetector import TailDetector, AnalyzeCarStatus
+# from traffic_color import signal
+
 
 class Camera:
     def __init__(self, name, rotation_in_world, location_in_world, intrinsics_matrix):
@@ -72,6 +75,7 @@ def main():
         base_path = Path.cwd() / "scenes" / scene_name
         path_to_bb_data = base_path / "front" / "boundingbox" / f"bb.json"
         dir_to_depth_imgs = base_path / "front" / "depth"
+        dir_to_front_imgs = base_path / "front" / "raw"
 
         # path of output (render json)
         path_to_render_json = base_path / f"render.json"
@@ -83,10 +87,15 @@ def main():
         with path_to_bb_data.open('r') as file:
             bb_data = json.load(file)
         depth_imgs = LoadImagesFromFolder(dir_to_depth_imgs, grayscale=True)
+        raw_imgs = LoadImagesFromFolder(dir_to_front_imgs, grayscale=False)
+        brake_status = "brake released"
 
         # Loop over all frames
         for j in range(len(depth_imgs)):
             depth_img = depth_imgs[j]
+            raw_img = raw_imgs[j]
+            if j > 0:
+                raw_img_old = raw_imgs[j-1]
             depth_img = normalize_linear(depth_img, min=0., max=1.)
             bb = bb_data[j]
 
@@ -128,13 +137,30 @@ def main():
                 # Constrain vehicles to stay parallel to the ground
                 if label in labels_vehicles:
                     point[-1] = 0.
+                    vehicle_crop = raw_img[int(y1):int(y2), int(x1):int(x2)]
+                    if j > 0:
+                        vehicle_crop_old = raw_img_old[int(y1):int(y2), int(x1):int(x2)]
+                        brake_status = AnalyzeCarStatus(vehicle_crop, vehicle_crop_old)
+                        k = j+10
+                
+                if brake_status == "brake applied" and j < k:
+                    brake_status = "brake applied"
+                    
+                # if label == 'traffic light':
+                    # Signal_color = signal(raw_img, box)
 
                 point = point.tolist()
 
                 R = np.eye(3)
                 R = R.tolist()
-
-                objects.append({"Class": label, "Location": point, "R": R})
+                
+                if label in labels_vehicles:
+                    objects.append({"Class": label, "Location": point, "R": R, "Brake": brake_status})
+                    
+                # elif label == 'traffic light':
+                #     objects.append({"Class": label, "Location": point, "R": R, "Signal": Signal_color})
+                else:
+                    objects.append({"Class": label, "Location": point, "R": R})
 
             # Populate render JSON file with frame and object data
             frame_data = {"Frame" : j}            

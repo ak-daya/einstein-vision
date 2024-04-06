@@ -25,7 +25,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -50,7 +51,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -75,7 +77,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -105,7 +108,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -130,7 +134,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -155,7 +160,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -185,7 +191,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -210,7 +217,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -235,7 +243,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -265,7 +274,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -290,7 +300,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -315,7 +326,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -345,7 +357,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -370,7 +383,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -395,7 +409,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -425,7 +440,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -450,7 +466,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -475,7 +492,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -505,7 +523,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -530,7 +549,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -555,7 +575,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -580,7 +601,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -605,7 +627,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -635,7 +658,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -660,7 +684,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -685,7 +710,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -710,7 +736,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -735,7 +762,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -765,7 +793,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -790,7 +819,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -815,7 +845,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -840,7 +871,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -865,7 +897,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -895,7 +928,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -920,7 +954,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -945,7 +980,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -970,7 +1006,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -995,7 +1032,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1025,7 +1063,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1050,7 +1089,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1075,7 +1115,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1105,7 +1146,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1130,7 +1172,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1155,7 +1198,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1185,7 +1229,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1210,7 +1255,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1235,7 +1281,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1265,7 +1312,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1290,7 +1338,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1315,7 +1364,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1345,7 +1395,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1370,7 +1421,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1400,7 +1452,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1425,7 +1478,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1455,7 +1509,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1480,7 +1535,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1510,7 +1566,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1535,7 +1592,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1565,7 +1623,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1595,7 +1654,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1625,7 +1685,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1655,7 +1716,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1685,7 +1747,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1715,7 +1778,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1745,7 +1809,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -1770,7 +1835,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1800,7 +1866,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -1825,7 +1892,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1855,7 +1923,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -1880,7 +1949,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1910,7 +1980,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1940,7 +2011,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -1965,7 +2037,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -1995,14 +2068,15 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "stop sign",
                 "Location": [
                     12.930891409776772,
                     97.67672186057511,
-                    3.8183703012751415
+                    3.818370301275147
                 ],
                 "R": [
                     [
@@ -2050,14 +2124,15 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "stop sign",
                 "Location": [
                     13.150172423235365,
                     90.87891788109579,
-                    4.060488128594339
+                    4.060488128594344
                 ],
                 "R": [
                     [
@@ -2100,7 +2175,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2130,14 +2206,15 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "stop sign",
                 "Location": [
                     13.812056406128269,
                     84.73362898778385,
-                    3.8438286629959793
+                    3.8438286629959837
                 ],
                 "R": [
                     [
@@ -2180,7 +2257,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2192,7 +2270,7 @@
                 "Location": [
                     13.419404471841803,
                     74.12031036109656,
-                    3.90282072690416
+                    3.9028207269041637
                 ],
                 "R": [
                     [
@@ -2235,7 +2313,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -2260,7 +2339,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2290,14 +2370,15 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "stop sign",
                 "Location": [
                     12.912240770898132,
                     63.317367360644866,
-                    3.716131703558842
+                    3.7161317035588457
                 ],
                 "R": [
                     [
@@ -2345,14 +2426,15 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "stop sign",
                 "Location": [
                     13.537622173622893,
                     59.27244474166342,
-                    3.929475003262456
+                    3.9294750032624597
                 ],
                 "R": [
                     [
@@ -2400,14 +2482,15 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "stop sign",
                 "Location": [
                     12.617650532818772,
                     48.90288155966279,
-                    3.7627540842680887
+                    3.7627540842680913
                 ],
                 "R": [
                     [
@@ -2437,7 +2520,7 @@
                 "Location": [
                     11.803928969806616,
                     41.08834253539411,
-                    3.62484422476272
+                    3.6248442247627226
                 ],
                 "R": [
                     [
@@ -2480,7 +2563,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2492,7 +2576,7 @@
                 "Location": [
                     11.621647837993004,
                     36.126135052959505,
-                    3.7296928255409245
+                    3.7296928255409263
                 ],
                 "R": [
                     [
@@ -2535,7 +2619,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2547,7 +2632,7 @@
                 "Location": [
                     8.201793882597393,
                     23.208098017478477,
-                    3.065656835938575
+                    3.0656568359385767
                 ],
                 "R": [
                     [
@@ -2590,7 +2675,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2620,7 +2706,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2650,7 +2737,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2680,7 +2768,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2710,7 +2799,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2740,7 +2830,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2770,7 +2861,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -2795,7 +2887,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2829,7 +2922,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2859,7 +2953,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2889,7 +2984,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -2914,7 +3010,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2944,7 +3041,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -2969,7 +3067,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -2999,7 +3098,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3024,7 +3124,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3054,7 +3155,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3079,7 +3181,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3109,7 +3212,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3134,7 +3238,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3164,7 +3269,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3189,7 +3295,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3219,7 +3326,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3244,7 +3352,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3269,7 +3378,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3299,7 +3409,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3324,7 +3435,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3349,7 +3461,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3379,7 +3492,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3409,7 +3523,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3439,7 +3554,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3464,7 +3580,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3489,7 +3606,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3519,7 +3637,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3544,7 +3663,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3569,7 +3689,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3599,7 +3720,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3624,7 +3746,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3654,7 +3777,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3679,7 +3803,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3709,7 +3834,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3734,7 +3860,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3764,7 +3891,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3789,7 +3917,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3819,7 +3948,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3844,7 +3974,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3874,7 +4005,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3899,7 +4031,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3929,7 +4062,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -3954,7 +4088,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -3984,7 +4119,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4009,7 +4145,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4039,7 +4176,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4064,7 +4202,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4094,7 +4233,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4119,7 +4259,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4149,7 +4290,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4174,7 +4316,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4204,7 +4347,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4229,7 +4373,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4254,7 +4399,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4284,7 +4430,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4309,7 +4456,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4339,7 +4487,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4369,7 +4518,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4399,7 +4549,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4424,7 +4575,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4454,7 +4606,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4479,7 +4632,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4509,7 +4663,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4534,7 +4689,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4559,7 +4715,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4589,7 +4746,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4614,7 +4772,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4644,7 +4803,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4669,7 +4829,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4699,7 +4860,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4724,7 +4886,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4754,7 +4917,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4779,7 +4943,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4809,7 +4974,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4834,7 +5000,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4864,7 +5031,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4889,7 +5057,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4914,7 +5083,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -4944,7 +5114,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4969,7 +5140,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -4994,7 +5166,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -5019,7 +5192,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -5049,7 +5223,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5074,7 +5249,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5099,7 +5275,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -5129,7 +5306,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5154,7 +5332,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5179,7 +5358,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5204,7 +5384,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5229,7 +5410,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5254,7 +5436,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -5284,7 +5467,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5309,7 +5493,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5334,7 +5519,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -5364,7 +5550,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5389,7 +5576,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5414,7 +5602,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -5439,7 +5628,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -5469,7 +5659,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5494,7 +5685,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -5519,7 +5711,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5544,7 +5737,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5569,7 +5763,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5594,7 +5789,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -5624,7 +5820,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5649,7 +5846,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5674,7 +5872,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5699,7 +5898,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -5724,7 +5924,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -5754,7 +5955,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5779,7 +5981,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5804,7 +6007,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5829,7 +6033,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -5854,7 +6059,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -5884,7 +6090,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5909,7 +6116,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5934,7 +6142,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -5959,7 +6168,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -5984,7 +6194,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6009,7 +6220,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6039,7 +6251,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6064,7 +6277,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6089,7 +6303,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -6114,7 +6329,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6144,7 +6360,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6169,7 +6386,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -6194,7 +6412,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6224,7 +6443,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6249,7 +6469,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -6274,7 +6495,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6299,7 +6521,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6324,7 +6547,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6354,7 +6578,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6379,7 +6604,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6404,7 +6630,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6429,7 +6656,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6454,7 +6682,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6484,7 +6713,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6509,7 +6739,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6534,7 +6765,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6559,7 +6791,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6584,7 +6817,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6614,7 +6848,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6639,7 +6874,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6664,7 +6900,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6694,7 +6931,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6719,7 +6957,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6744,7 +6983,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6769,7 +7009,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6799,7 +7040,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6824,7 +7066,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6849,7 +7092,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6874,7 +7118,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -6899,7 +7144,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -6929,7 +7175,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6954,7 +7201,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -6979,7 +7227,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7004,7 +7253,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7029,7 +7279,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7059,7 +7310,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7084,7 +7336,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7109,7 +7362,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7134,7 +7388,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7164,7 +7419,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7189,7 +7445,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7214,7 +7471,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7239,7 +7497,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7269,7 +7528,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7294,7 +7554,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7319,7 +7580,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7349,7 +7611,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7374,7 +7637,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7399,7 +7663,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7429,7 +7694,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7454,7 +7720,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7479,7 +7746,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7509,7 +7777,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7534,7 +7803,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7559,7 +7829,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7589,7 +7860,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7614,7 +7886,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7644,7 +7917,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7669,7 +7943,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7699,7 +7974,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7724,7 +8000,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7749,7 +8026,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7779,7 +8057,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7804,7 +8083,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7829,7 +8109,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7859,7 +8140,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7884,7 +8166,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7909,7 +8192,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -7939,7 +8223,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -7964,7 +8249,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -7989,7 +8275,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8019,7 +8306,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -8044,7 +8332,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -8069,7 +8358,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8099,7 +8389,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -8124,7 +8415,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -8149,7 +8441,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8179,7 +8472,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -8204,7 +8498,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -8229,7 +8524,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8259,7 +8555,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -8284,7 +8581,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8314,7 +8612,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "bus",
@@ -8339,7 +8638,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8369,7 +8669,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "bus",
@@ -8394,7 +8695,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8424,7 +8726,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8454,7 +8757,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8484,7 +8788,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8514,7 +8819,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8544,7 +8850,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8574,7 +8881,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8604,7 +8912,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8634,7 +8943,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -8659,7 +8969,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8689,7 +9000,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -8714,7 +9026,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8744,7 +9057,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -8769,7 +9083,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8799,7 +9114,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8829,7 +9145,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8859,7 +9176,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8889,7 +9207,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8919,7 +9238,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8949,7 +9269,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -8979,7 +9300,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9009,7 +9331,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9039,7 +9362,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9069,7 +9393,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9099,7 +9424,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9129,7 +9455,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9159,7 +9486,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9193,7 +9521,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9223,14 +9552,15 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "stop sign",
                 "Location": [
                     10.111573136436355,
                     59.41935052275984,
-                    3.5031434049568624
+                    3.503143404956865
                 ],
                 "R": [
                     [
@@ -9278,7 +9608,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9308,7 +9639,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9338,7 +9670,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9372,7 +9705,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9402,7 +9736,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9436,7 +9771,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9466,7 +9802,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9496,7 +9833,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9526,7 +9864,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9556,7 +9895,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -9581,7 +9921,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9611,7 +9952,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9641,7 +9983,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9671,7 +10014,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9705,7 +10049,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9735,7 +10080,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -9760,7 +10106,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9790,7 +10137,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9820,7 +10168,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -9845,7 +10194,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9875,7 +10225,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -9900,7 +10251,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9930,7 +10282,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -9955,7 +10308,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -9985,7 +10339,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "truck",
@@ -10010,7 +10365,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10040,7 +10396,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10070,7 +10427,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10100,7 +10458,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10130,7 +10489,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             },
             {
                 "Class": "car",
@@ -10155,7 +10515,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10167,7 +10528,7 @@
                 "Location": [
                     6.087991401390137,
                     34.727633272814394,
-                    -1.6478140150877894
+                    -1.6478140150877871
                 ],
                 "R": [
                     [
@@ -10210,7 +10571,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10222,7 +10584,7 @@
                 "Location": [
                     7.030510630625751,
                     35.410848006274946,
-                    -1.8582998256407641
+                    -1.8582998256407623
                 ],
                 "R": [
                     [
@@ -10265,7 +10627,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10277,7 +10640,7 @@
                 "Location": [
                     7.803682328796299,
                     34.93392568340326,
-                    -1.9990155932369043
+                    -1.999015593236902
                 ],
                 "R": [
                     [
@@ -10320,7 +10683,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10332,7 +10696,7 @@
                 "Location": [
                     9.265535626725708,
                     35.92585618707434,
-                    -2.691820829630889
+                    -2.6918208296308874
                 ],
                 "R": [
                     [
@@ -10375,7 +10739,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10387,7 +10752,7 @@
                 "Location": [
                     10.7433778466131,
                     35.35853080821707,
-                    -3.0807951323804375
+                    -3.0807951323804357
                 ],
                 "R": [
                     [
@@ -10430,7 +10795,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10442,7 +10808,7 @@
                 "Location": [
                     10.763852603858304,
                     29.840354312333886,
-                    -3.1702556433563016
+                    -3.1702556433563
                 ],
                 "R": [
                     [
@@ -10485,7 +10851,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10527,7 +10894,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10557,7 +10925,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10595,7 +10964,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10629,7 +10999,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10659,7 +11030,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10689,7 +11061,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10719,7 +11092,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10749,7 +11123,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10779,7 +11154,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10809,7 +11185,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10839,7 +11216,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10869,7 +11247,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     },
@@ -10899,7 +11278,8 @@
                         0.0,
                         1.0
                     ]
-                ]
+                ],
+                "Brake": "brake released"
             }
         ]
     }
